@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1867AD8-E80A-47F2-B3F5-EEB5BEB0CD84}|Elvarnda Cafe\\Elvarnda Cafe.csproj|c:\\users\\elserag\\desktop\\elvarnda cafe\\elvarnda cafe\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1867AD8-E80A-47F2-B3F5-EEB5BEB0CD84}|Elvarnda Cafe\\Elvarnda Cafe.csproj|solutionrelative:elvarnda cafe\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1867AD8-E80A-47F2-B3F5-EEB5BEB0CD84}|Elvarnda Cafe\\Elvarnda Cafe.csproj|C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\elvarnda cafe\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1867AD8-E80A-47F2-B3F5-EEB5BEB0CD84}|Elvarnda Cafe\\Elvarnda Cafe.csproj|solutionrelative:elvarnda cafe\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1867AD8-E80A-47F2-B3F5-EEB5BEB0CD84}|Elvarnda Cafe\\Elvarnda Cafe.csproj|C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\elvarnda cafe\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1867AD8-E80A-47F2-B3F5-EEB5BEB0CD84}|Elvarnda Cafe\\Elvarnda Cafe.csproj|solutionrelative:elvarnda cafe\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1867AD8-E80A-47F2-B3F5-EEB5BEB0CD84}|Elvarnda Cafe\\Elvarnda Cafe.csproj|C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\elvarnda cafe\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1867AD8-E80A-47F2-B3F5-EEB5BEB0CD84}|Elvarnda Cafe\\Elvarnda Cafe.csproj|solutionrelative:elvarnda cafe\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1867AD8-E80A-47F2-B3F5-EEB5BEB0CD84}|Elvarnda Cafe\\Elvarnda Cafe.csproj|C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\elvarnda cafe\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1867AD8-E80A-47F2-B3F5-EEB5BEB0CD84}|Elvarnda Cafe\\Elvarnda Cafe.csproj|solutionrelative:elvarnda cafe\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\Elvarnda Cafe\\MainClass.cs",
+              "RelativeDocumentMoniker": "Elvarnda Cafe\\MainClass.cs",
+              "ToolTip": "C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\Elvarnda Cafe\\MainClass.cs",
+              "RelativeToolTip": "Elvarnda Cafe\\MainClass.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwBEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:38:34.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBillList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\Elvarnda Cafe\\Model\\frmBillList.cs",
+              "RelativeDocumentMoniker": "Elvarnda Cafe\\Model\\frmBillList.cs",
+              "ToolTip": "C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\Elvarnda Cafe\\Model\\frmBillList.cs [Design]",
+              "RelativeToolTip": "Elvarnda Cafe\\Model\\frmBillList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:52:08.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPOS.cs",
+              "DocumentMoniker": "C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\Elvarnda Cafe\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "Elvarnda Cafe\\Model\\frmPOS.cs",
+              "ToolTip": "C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\Elvarnda Cafe\\Model\\frmPOS.cs",
+              "RelativeToolTip": "Elvarnda Cafe\\Model\\frmPOS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:04:27.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBillList.cs",
+              "DocumentMoniker": "C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\Elvarnda Cafe\\Model\\frmBillList.cs",
+              "RelativeDocumentMoniker": "Elvarnda Cafe\\Model\\frmBillList.cs",
+              "ToolTip": "C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\Elvarnda Cafe\\Model\\frmBillList.cs",
+              "RelativeToolTip": "Elvarnda Cafe\\Model\\frmBillList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:56:41.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPOS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\Elvarnda Cafe\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "Elvarnda Cafe\\Model\\frmPOS.cs",
+              "ToolTip": "C:\\Users\\ELSERAG\\Desktop\\Elvarnda Cafe\\Elvarnda Cafe\\Model\\frmPOS.cs [Design]",
+              "RelativeToolTip": "Elvarnda Cafe\\Model\\frmPOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:26:50.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
